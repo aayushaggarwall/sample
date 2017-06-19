@@ -1,4 +1,6 @@
 git don't keep track of folders. That is when a new folder is created we don't need to commit that. It is because , gits way of keeping tracks is by storing the differences. When a new folder is created , git has nothing to compare it to, so nothing is commited.
 
 
-.
+merging shouldn't be done directly. 
+first a pull request must be created for it to be reviewed by everyone and then only it should be merged.
+then the owner (the person having the right to merge , merges the branch.)
